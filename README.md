@@ -64,6 +64,32 @@
 
 ---
 
+<h4 align="center">VERSION 0.1</h4>
+
+-   Finished Video Tutorial
+-   Merged branch 1 into 0
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>See:</td>
+        <td>|Tutorial|</td>
+        <td>=[@https://www.youtube.com/watch?v=CVpUuw9XSjY]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 ---
 
 <h3 align="center">BRANCH 1</h3>
